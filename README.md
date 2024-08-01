@@ -1,5 +1,5 @@
 # Check-My-IP-Address
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4784fcd9-4232-4548-b449-c829e55180fa)
 
 If you need to verify your IP address or assess the authenticity and security of proxy traffic, this article is a must-read for you. Here, we'll explain how to check your IP address and the importance of doing so.
 
